@@ -14,4 +14,4 @@ I implemented a binary search algorithm so the order of growth is logarithmic.  
 I used a dictionary (hash table) to keep track of a consecutive list of user activity and another dictionary to keep track of the frequencies of unique consecutive triples.  I then sorted the dictionary of the frequencies of unique consecutive triples and returned the top 10 most frequent occurring triples.
 
 ## Link
-[https://github.com/TheMathMajor/Android-Challenge](https://github.com/TheMathMajor/Backend-Challenge)
+[https://github.com/TheMathMajor/Backend-Challenge](https://github.com/TheMathMajor/Backend-Challenge)
